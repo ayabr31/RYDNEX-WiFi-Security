@@ -78,14 +78,15 @@ The goal of this project is to:
 
 ## 🚀 How to Run
 
-### 1. Install dependencies
+### Install dependencies
 
 ```bash
-pip install -r requirements.txt
-
+pip install -r requirements.txt 
+```
  ### terminal version
+ ```bash
 python3 rydnex.py
-
+```
 
 
 
