@@ -121,6 +121,6 @@ RYDNEX-WiFi-Security/
 
 This project is developed for academic and educational purposes only.
 
-No real network attacks are performed
-No unauthorized access is intended
-All scenarios are simulated
+- No real network attacks are performed  
+- No unauthorized access is intended  
+- All scenarios are simulated  
