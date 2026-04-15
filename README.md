@@ -94,6 +94,7 @@ python3 rydnex.py
 
 
 ### Project Structure
+```bash
 RYDNEX-WiFi-Security/
 │
 ├── rydnex.py
@@ -111,6 +112,7 @@ RYDNEX-WiFi-Security/
 │   ├── capture.txt
 │   ├── system_logs.txt
 │   ├── keylogs.txt
+```
 
 
 
